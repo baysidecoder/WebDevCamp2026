@@ -1,0 +1,17 @@
+body{
+    background: #326AA6;
+    text-align:center;
+    display: block;
+    color: black;
+}
+
+button{
+    background: #3D8DE3;
+    color: white;
+    padding: 25px;
+    border-radius: 10px;
+}
+#answer{
+    color:white;
+    font-size: 24px;
+}
