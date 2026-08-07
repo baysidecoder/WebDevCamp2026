@@ -1,0 +1,27 @@
+body{
+    background:#E0A872;
+    display:grid;
+}
+
+h1{
+    /*justify-self:center;*/
+}
+.creatercard{
+    width:min(100%, 560px);
+    padding:36px;
+    background:#E0A872;
+    border:5px solid pink;
+}
+form{
+    display: grid;
+    gap:5px
+}
+.intro{
+     color:black;
+}
+button{
+    color:black;
+    background:#F0AFE6;
+    border-radius:10px;
+    padding:10px;
+}
