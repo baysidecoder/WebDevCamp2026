@@ -1,0 +1,14 @@
+body{
+
+  background-image: linear-gradient(to bottom, #0000FF, #FF00D4, #FF002B);
+}
+img{
+    height:50px;
+    width:auto;
+    display:flex;   
+    padding-left:350px;
+    /*float: right;*/
+}
+.page2{
+       background-image: linear-gradient(to bottom, #0000FF, #FF00D4, #FF002B);
+}
