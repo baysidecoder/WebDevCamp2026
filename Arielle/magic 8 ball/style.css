@@ -1,0 +1,16 @@
+body{
+    background: #93A2ED;
+    align-items: left;
+    color:black;
+}
+
+button{
+    background:gray;
+    color:black;
+    padding:5px;
+    border-radius:5px;
+}    
+#answer{
+    color:black;
+    font-size:;
+}
