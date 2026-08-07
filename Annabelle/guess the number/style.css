@@ -1,0 +1,10 @@
+body{
+    background: #2225c3;
+background: linear-gradient(0deg, rgba(34, 37, 195, 1) 0%, rgba(45, 253, 243, 1) 100%);
+text-align: center;
+}
+
+.pagetwo{
+    background: #4600f7;
+background: linear-gradient(0deg, rgba(70, 0, 247, 1) 0%, rgba(139, 193, 232, 1) 67%, rgba(143, 255, 242, 1) 100%);
+}
