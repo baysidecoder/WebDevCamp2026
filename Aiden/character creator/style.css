@@ -1,0 +1,29 @@
+body{
+    background: #EBEBEB;
+    /*html colour code*/
+    display: grid;
+    
+}
+
+hi{
+    justify-self:center;
+}
+.creatorCard{
+    width:min(100%, 560px);
+    padding: 36px;
+    background: #EBEBEB;
+    border: 10px solid white;
+}
+form{
+    display: grid;
+    gap: 10px;
+}
+.intro{
+    color:blue;
+}
+button{
+    color: white;
+    background: red;
+    border-radius: 12px;
+    
+}
