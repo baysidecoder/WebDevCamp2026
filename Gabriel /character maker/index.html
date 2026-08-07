@@ -1,0 +1,61 @@
+<html>
+     <head>
+         <title>character maker</title>
+         <link rel="stylesheet" href="style.css">
+     </head>
+     <body>
+         <div class="creatorcard">
+             <marquee>character maker</marquee>
+             <p class="intro">build a character</p>
+             <form>
+                 
+                 <label for="name">character name</label>
+                 <input id="type" type="text" placeholder:"Example: pubert" required>
+                 <label for="class"> character class</label>
+                 <select id="class" required>
+                    <option value="" disabled selected> choose a class </option>
+                    <option value="wizard">wizard</option>
+                    <option value= "fighter">fighter</option>
+                    <option value= "healer">healer</option>
+                    <option value= "rouge">rouge</option>
+                    <option value= "paladin">paladin</option>
+                 </select>
+                 
+                 <label for ="favourite-color">favourite color</label>
+                 <input id= "color" type= "color" value="white">
+                 <label for="startingitem"> starting item </label>
+                 <select id="item" >
+                     <option value-"" disabled selected>choose an item    </option>
+                     <option value="wand">wand</option>
+                     <option value="bow">bow</option>
+                     <option value="peanut butter ">peanut butter</option>
+                     <option value="sword">sword</option>
+                     <option value="dagger">dagger</option>
+                     <option value="war hammer">war hammer</option>
+                     <option value="healing potion">potion</option>
+        
+                 </select>
+                 <button type="submit">create character</button>
+                 
+             </form> 
+             <div id="character-card" class="character-card"hidden>
+                 <p class="card-label">Your new hero</p>
+                 <h2 id="card-name"></h2>
+                 <div class="character-details">
+                 <p><strong>Class</strong><span id ="card-class"></span></p>
+                 <p><strong>Item:</strong> <span id="card-item"></span></p>
+                 <p><strong>Health:</strong> <span id="card-health"></span>/100</p>
+                 
+                 </div>
+                 <div class="health-bar" aria-hidden="true">
+                     <div id="health-fill"></div>
+                 </div>
+                 <p id="card-backstory" class="card-backstory"></p>
+                 <button id="create-another" type="submit">Create Another Character</button>
+             </div>
+             
+             
+             
+         </div>
+     </body>
+</html>
