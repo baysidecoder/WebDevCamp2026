@@ -1,0 +1,26 @@
+body{
+    background-image: linear-gradient(to bottom, #0000FF, #FBFF00, #FF002B);
+}
+
+h1{justify-self: center
+}
+.creatorCard{
+    width:min(100%, 560px);
+    padding: 36px;
+    border: 4px solid white;
+   
+}
+form{
+    display: grid;
+    gap: 10px;
+}
+.intro{
+    color: blue;
+}
+button{
+    color: white;
+    background: red;
+    border-radius: 12px;
+    padding:12px;
+    
+}
