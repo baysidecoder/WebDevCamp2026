@@ -1,0 +1,12 @@
+body{
+    background: #276FF5;
+    text-align: center;
+
+}
+button{
+    background:#3A60A6;
+    
+}
+button:hover{
+    background:#75A5FF;
+}
