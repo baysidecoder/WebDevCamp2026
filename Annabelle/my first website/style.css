@@ -1,0 +1,19 @@
+body{
+    background:#FF73D3;
+    color:white;
+    display:block;
+    text-align :center;
+}
+ul{
+    text-align :center;
+    list-style-position :inside;
+    
+    
+}
+img{
+        height:70px;
+}
+.page2{
+    background: #f505d5;
+background: radial-gradient(circle, rgba(245, 5, 213, 1) 0%, rgba(247, 0, 66, 1) 100%);
+}
