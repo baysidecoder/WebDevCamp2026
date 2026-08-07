@@ -1,0 +1,10 @@
+body{
+    background: blue;
+    text-align: center;
+}
+button{
+    background:#EBEBEB;
+}
+button:hover{
+    background:blue;
+}
