@@ -1,0 +1,24 @@
+body {
+    background: #EBB757;
+    color: black;
+    display: block;
+}
+ 
+h1 {
+    text-align: center;
+}
+ 
+p {
+    text-align: center;
+}
+ 
+img {
+    height: 50px;
+    padding-left: 100px;
+}
+ 
+.page2 {
+    background: red;
+     background: #f09f48; 
+     background: linear-gradient(90deg, rgba(240,159,72,1) 0%, rgba(227,118,174,1) 72%, rgba(237,221,83,1) 100%); 
+}
