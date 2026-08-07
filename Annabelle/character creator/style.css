@@ -2,7 +2,7 @@ body{
     background:#90E3FC;
     display:grid ;
     /* align-items:center; */
-    justify-content:center;
+    place-items:center;
 }
 h1{
     text-align:center;
