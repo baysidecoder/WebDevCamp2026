@@ -1,0 +1,29 @@
+body{
+    background:#90E3FC;
+    display:grid ;
+}
+h1{
+    text-align:center;
+    color:darkblue;
+}
+.creatorCard{
+    width:min(100%, 560px); 
+    padding: 36px;                                                                                                                                                                                                                                                                                                       
+    background:#B9EDFD;
+    border:4px dotted white;
+    
+}
+form{
+    display: grid;
+     gap:5px
+}
+.intro {
+color:black
+}
+button{
+    color:white;
+    background:pink;
+    border-radius:12px;
+    padding:12px;
+    
+}
