@@ -1,0 +1,29 @@
+body{
+    background:#F0310C;
+    display: grid;
+
+}
+
+h1{
+    justify-self:center;
+}
+.creatorCard{
+    width:min(100%, 560px);
+    padding: 36px;
+    background:#27F5F2;
+    border:4px dashed;
+    
+}
+form{
+    display: grid;
+    gap: 10px;
+}
+.intro{
+    color:#07BDEB;
+}
+button{
+    color: white;
+    Background: red;
+    border-radius: 12px;
+    padding:12px;
+}
