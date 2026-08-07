@@ -1,0 +1,12 @@
+body{
+    /*background: #77a0ed;*/
+background: #4f77db;
+background: radial-gradient(circle, rgba(79, 119, 219, 1) 0%, rgba(148, 187, 233, 1) 64%);
+}
+button{
+    background:#D6E6FF;
+}
+img{
+    width:200px;
+    height:200px;
+}
