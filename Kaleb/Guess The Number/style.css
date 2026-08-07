@@ -1,0 +1,8 @@
+body{
+    background-image: linear-gradient(to bottom, #F4FC00, #008FC0, #FC0000);
+text-align:center;
+padding-top:100px;
+}
+button{
+   background-image: linear-gradient(to bottom, #0000FF, #FBFF00, #FF002B)
+}
